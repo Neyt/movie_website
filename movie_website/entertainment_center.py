@@ -10,7 +10,8 @@ see your webpage!
 import media
 import fresh_tomatoes
 
-Jiro = media.Movie("Jiro Dreams of Sushi", "http://ecx.images-amazon.com/images/I/810Fw8dOh4L._SL1500_.jpg", 
+Jiro = media.Movie("Jiro Dreams of Sushi", 
+                   "http://ecx.images-amazon.com/images/I/810Fw8dOh4L._SL1500_.jpg",
                    "https://www.youtube.com/watch?v=I1UDS2kgqY8")
 print (Jiro.trailer_youtube_url)
 TED_Talks = media.Movie("TED Talks: Life Hacks", "http://bingeout.com/wp-content/uploads/2015/06/FluidStance_Ted-Talks-689x400.png", 
