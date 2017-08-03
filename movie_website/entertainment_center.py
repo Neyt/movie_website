@@ -1,12 +1,12 @@
-# Lesson 3.4: Make Classes
-# Mini-Project: Movies Website
+''' 
+Lesson 3.4: Make Classes
+Mini-Project: Movies Website
 
-# In this file, you will define instances of the class Movie defined
-# in media.py. After you follow along with Kunal, make some instances
-# of your own!
+In this file, you will define instances of the class Movie defined in media.py. After you follow along with Kunal, make some instances of your own!
 
-# After you run this code, open the file fresh_tomatoes.html to
-# see your webpage!
+After you run this code, open the file fresh_tomatoes.html to
+see your webpage!
+'''
 
 import media
 import fresh_tomatoes
