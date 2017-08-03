@@ -17,7 +17,7 @@ TED_Talks = media.Movie("TED Talks: Life Hacks", "http://bingeout.com/wp-content
                         "https://youtu.be/bhPfzTvqFTU")
 print (TED_Talks.trailer_youtube_url)
 Joan_Rivers = media.Movie("Joan Rivers: A Piece of Work", "http://www.chicagonow.com/blogs/life-and-times-of-a-young-republican/jriverspieceofworkposter.jpg", 
-                          "https://youtu.be/2fnojZw54ls")
+                          "https://youtu.be/cn7gAG5_tkM")
 print (Joan_Rivers.trailer_youtube_url)
 Enron = media.Movie("Enron: The Smartest Guys in the Room", 
                     "http://ecx.images-amazon.com/images/I/51G61Y9SGAL.jpg", "https://youtu.be/-w6duQhWuVk")
