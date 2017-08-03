@@ -1,7 +1,16 @@
-Projects in the Full Stack Nanodegree Program
+# Movie Trailer Website
+## A part of the Full Stack Web Developer Nanodegree Program
 
-Movie Trailer Website
+# Movie Trailer Website
 In this project, theres a server-side Python code to store a list of some movies, including box art imagery and a movie trailer URL. 
 The code to generate a static web page allowing visitors to browse their movies and watch the trailers.
 
 Browsing movie trailers in the Movie Trailer Website.
+
+# How to use it
+Just download the file and double click in the html file that will be in the folder.
+
+``` 
+All files need to be in the same folder
+You can open html files with your browser of choise (ex: google chrome)
+```
