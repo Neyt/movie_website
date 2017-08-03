@@ -23,7 +23,8 @@ Joan_Rivers = media.Movie("Joan Rivers: A Piece of Work",
                           "https://youtu.be/cn7gAG5_tkM")
 print (Joan_Rivers.trailer_youtube_url)
 Enron = media.Movie("Enron: The Smartest Guys in the Room",
-                    "http://ecx.images-amazon.com/images/I/51G61Y9SGAL.jpg", "https://youtu.be/-w6duQhWuVk")
+                    "http://ecx.images-amazon.com/images/I/51G61Y9SGAL.jpg",
+                    "https://youtu.be/-w6duQhWuVk")
 print (Enron.trailer_youtube_url)
 American_Experience = media.Movie("American Experience: Henry Ford",
                                   "http://old.seattletimes.com/ABPub/2013/01/28/2020232995.jpg",
